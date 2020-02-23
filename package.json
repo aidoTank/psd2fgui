@@ -11,7 +11,7 @@
         "psd2fgui": "./convert.js"
     },
     "scripts": {
-        "test":"node convert.js test/test.psd"
+        "test": "node convert.js test/test.psd"
     },
     "homepage": "http://www.fairygui.com",
     "repository": {
